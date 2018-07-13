@@ -1,0 +1,20 @@
+PODS:
+  - ActiveLabel (0.9.0)
+  - Floaty (4.0.1)
+
+DEPENDENCIES:
+  - ActiveLabel
+  - Floaty
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ActiveLabel
+    - Floaty
+
+SPEC CHECKSUMS:
+  ActiveLabel: c4fdd14a288483e98b5a3dff0ab214699aeee74a
+  Floaty: 82854e1a5ef4fa208281ebd4da2f3d1e51ba67a6
+
+PODFILE CHECKSUM: 8071506ab3869bf18fe47fe6027c7027b4c93244
+
+COCOAPODS: 1.5.3
